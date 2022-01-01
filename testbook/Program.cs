@@ -43,5 +43,8 @@ for (int i = 1; i >= n; i++)
 {
     y = y * a;
 }
+<<<<<<< HEAD
+=======
 
 Console.WriteLine(y);
+>>>>>>> e43a9c88c1d29236dbb132243e8531952f1e0cc9
